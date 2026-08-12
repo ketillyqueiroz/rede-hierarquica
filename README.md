@@ -39,3 +39,5 @@ Todos os dispositivos pertencem à rede 192.168.1.0/24, sendo o roteador 192.168
 Após a configuração, foram realizados testes com o comando ping e com o protocolo ICMP, além da utilização do modo Simulation para observar o tráfego passando pelas camadas de Acesso → Distribuição → Core.
 
 A prática permitiu reforçar conceitos de IPv4, gateway, switches, roteadores, ICMP e arquitetura hierárquica de redes.
+
+![Anexo do Modelo Hierárquico feito no Packet Tracer funcionando com sucesso!](modelo-hierarquico-ketilly.png)
